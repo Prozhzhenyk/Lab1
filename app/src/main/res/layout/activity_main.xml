@@ -18,7 +18,11 @@
         app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+<<<<<<< HEAD
         app:layout_constraintVertical_bias="0.282" />
+=======
+        app:layout_constraintVertical_bias="0.393" />
+>>>>>>> e61801e (code changes)
 
     <Button
         android:id="@+id/btn_text"
